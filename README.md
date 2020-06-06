@@ -1,2 +1,1 @@
-# C
-Programs written in C
+# Programs written in C
